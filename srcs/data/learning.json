@@ -1,0 +1,42 @@
+{
+  "courses": [
+    {
+      "id": "c_py_adv",
+      "title": "Advanced Python for Prod",
+      "skill_id": "skill.python",
+      "hours": 50,
+      "provider": "LMS"
+    },
+    {
+      "id": "c_ci_found",
+      "title": "Practical CI/CD",
+      "skill_id": "skill.ci",
+      "hours": 30,
+      "provider": "LMS"
+    },
+    {
+      "id": "c_mlops_core",
+      "title": "MLOps Core",
+      "skill_id": "skill.mlops",
+      "hours": 80,
+      "provider": "LMS"
+    },
+    {
+      "id": "c_sql_adv",
+      "title": "Advanced SQL Patterns",
+      "skill_id": "skill.sql",
+      "hours": 40,
+      "provider": "LMS"
+    }
+  ],
+  "mentors": [
+    {
+      "name": "Senior DevOps",
+      "skills": [
+        "skill.ci",
+        "skill.mlops"
+      ],
+      "hours_per_month": 6
+    }
+  ]
+}

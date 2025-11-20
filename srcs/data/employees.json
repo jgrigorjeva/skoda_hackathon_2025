@@ -1,0 +1,2119 @@
+{
+  "employees": [
+    {
+      "id": "e1",
+      "name": "A. Novak",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "PRs 2025-02"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "GitLab CI 2025-03"
+        }
+      ],
+      "workload_pct": 0.7,
+      "engagement_score": 0.62,
+      "attrition_prob": 0.18
+    },
+    {
+      "id": "e2",
+      "name": "B. Svoboda",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Prod service 2025-05"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "POC pipeline 2025-06"
+        }
+      ],
+      "workload_pct": 0.9,
+      "engagement_score": 0.48,
+      "attrition_prob": 0.31
+    },
+    {
+      "id": "e3",
+      "name": "C. Vesela",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "DWH 2024-11"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "CI basics 2025-01"
+        }
+      ],
+      "workload_pct": 0.5,
+      "engagement_score": 0.75,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e4",
+      "name": "D. Kolar",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "ETL framework 2024-09"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "DWH migration 2024-10"
+        }
+      ],
+      "workload_pct": 0.85,
+      "engagement_score": 0.71,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e5",
+      "name": "E. Dvorak",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Model serving 2025-01"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Kubernetes rollout 2024-12"
+        }
+      ],
+      "workload_pct": 0.95,
+      "engagement_score": 0.52,
+      "attrition_prob": 0.27
+    },
+    {
+      "id": "e6",
+      "name": "F. Hruby",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "AB test dashboards 2025-02"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Pandas course 2024-08"
+        }
+      ],
+      "workload_pct": 0.6,
+      "engagement_score": 0.81,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e7",
+      "name": "G. Cerny",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "dbt project 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "dbt CI 2024-07"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.69,
+      "attrition_prob": 0.22
+    },
+    {
+      "id": "e8",
+      "name": "H. Blazek",
+      "role": "DevOps Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "GitLab pipelines 2024-03"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model registry 2024-11"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.57,
+      "attrition_prob": 0.25
+    },
+    {
+      "id": "e9",
+      "name": "I. Urban",
+      "role": "BI Developer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Reporting views 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "CI intro workshop 2024-09"
+        }
+      ],
+      "workload_pct": 0.55,
+      "engagement_score": 0.77,
+      "attrition_prob": 0.13
+    },
+    {
+      "id": "e10",
+      "name": "J. Sedlak",
+      "role": "Data Scientist",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Recommendation engine 2024-10"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Batch scoring 2025-01"
+        }
+      ],
+      "workload_pct": 0.92,
+      "engagement_score": 0.64,
+      "attrition_prob": 0.23
+    },
+    {
+      "id": "e11",
+      "name": "K. Prochazka",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "CDC pipeline 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Infra CI 2024-12"
+        }
+      ],
+      "workload_pct": 0.73,
+      "engagement_score": 0.59,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e12",
+      "name": "L. Holub",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Online serving 2025-02"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Async workers 2024-08"
+        }
+      ],
+      "workload_pct": 1.0,
+      "engagement_score": 0.46,
+      "attrition_prob": 0.35
+    },
+    {
+      "id": "e13",
+      "name": "M. Sykora",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Feature analytics 2024-09"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Notebooks 2024-11"
+        }
+      ],
+      "workload_pct": 0.65,
+      "engagement_score": 0.82,
+      "attrition_prob": 0.08
+    },
+    {
+      "id": "e14",
+      "name": "N. Kriz",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Data mart 2024-02"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "dbt tests 2024-03"
+        }
+      ],
+      "workload_pct": 0.78,
+      "engagement_score": 0.7,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e15",
+      "name": "O. Ruzicka",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "CI templates 2024-01"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model infra 2024-06"
+        }
+      ],
+      "workload_pct": 0.9,
+      "engagement_score": 0.55,
+      "attrition_prob": 0.29
+    },
+    {
+      "id": "e16",
+      "name": "P. Slama",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Airflow DAGs 2024-05"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Dim tables 2024-07"
+        }
+      ],
+      "workload_pct": 0.74,
+      "engagement_score": 0.61,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e17",
+      "name": "Q. Zeleny",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Feature store POC 2024-12"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Training scripts 2024-10"
+        }
+      ],
+      "workload_pct": 0.68,
+      "engagement_score": 0.67,
+      "attrition_prob": 0.17
+    },
+    {
+      "id": "e18",
+      "name": "R. Mach",
+      "role": "BI Developer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Finance reports 2024-11"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "Report tests 2025-01"
+        }
+      ],
+      "workload_pct": 0.6,
+      "engagement_score": 0.79,
+      "attrition_prob": 0.11
+    },
+    {
+      "id": "e19",
+      "name": "S. Kopecky",
+      "role": "Data Scientist",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Forecasting models 2024-03"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model monitoring 2024-09"
+        }
+      ],
+      "workload_pct": 0.96,
+      "engagement_score": 0.51,
+      "attrition_prob": 0.32
+    },
+    {
+      "id": "e20",
+      "name": "T. Cermak",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Fleet CI 2024-04"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Infra scripts 2024-10"
+        }
+      ],
+      "workload_pct": 0.82,
+      "engagement_score": 0.58,
+      "attrition_prob": 0.24
+    },
+    {
+      "id": "e21",
+      "name": "U. Skala",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Sharding project 2024-08"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Schema checks 2024-09"
+        }
+      ],
+      "workload_pct": 0.77,
+      "engagement_score": 0.63,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e22",
+      "name": "V. Kral",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Canary deployments 2024-07"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Optimization 2024-02"
+        }
+      ],
+      "workload_pct": 0.93,
+      "engagement_score": 0.53,
+      "attrition_prob": 0.28
+    },
+    {
+      "id": "e23",
+      "name": "W. Janda",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "User funnel 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "Notebook tests 2024-12"
+        }
+      ],
+      "workload_pct": 0.58,
+      "engagement_score": 0.83,
+      "attrition_prob": 0.07
+    },
+    {
+      "id": "e24",
+      "name": "X. Tuma",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Core marts 2024-01"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Lint + tests 2024-05"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.18
+    },
+    {
+      "id": "e25",
+      "name": "Y. Havel",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Shared runners 2024-03"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Feature store eval 2025-01"
+        }
+      ],
+      "workload_pct": 0.86,
+      "engagement_score": 0.6,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e26",
+      "name": "Z. Fiala",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Ingestion scripts 2024-02"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Source models 2024-03"
+        }
+      ],
+      "workload_pct": 0.7,
+      "engagement_score": 0.69,
+      "attrition_prob": 0.18
+    },
+    {
+      "id": "e27",
+      "name": "A. Benes",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "NLP service 2024-09"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "CI/CD for models 2024-10"
+        }
+      ],
+      "workload_pct": 0.9,
+      "engagement_score": 0.5,
+      "attrition_prob": 0.3
+    },
+    {
+      "id": "e28",
+      "name": "B. Barta",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Churn analysis 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "SQL tests 2024-08"
+        }
+      ],
+      "workload_pct": 0.55,
+      "engagement_score": 0.78,
+      "attrition_prob": 0.12
+    },
+    {
+      "id": "e29",
+      "name": "C. Cervenka",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Layered models 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Deployment checks 2024-07"
+        }
+      ],
+      "workload_pct": 0.79,
+      "engagement_score": 0.73,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e30",
+      "name": "D. David",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Multi-stage pipelines 2024-04"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Infra tooling 2024-09"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.56,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e31",
+      "name": "E. Elias",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Operational store 2024-07"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Schema diff checks 2024-11"
+        }
+      ],
+      "workload_pct": 0.76,
+      "engagement_score": 0.63,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e32",
+      "name": "F. Faltyn",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Streaming inference 2024-08"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Optimized training 2024-05"
+        }
+      ],
+      "workload_pct": 0.94,
+      "engagement_score": 0.47,
+      "attrition_prob": 0.34
+    },
+    {
+      "id": "e33",
+      "name": "G. Gajdos",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Pricing analysis 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Visualization scripts 2024-10"
+        }
+      ],
+      "workload_pct": 0.59,
+      "engagement_score": 0.8,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e34",
+      "name": "H. Hruska",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Core dimensions 2024-02"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Test coverage 2024-06"
+        }
+      ],
+      "workload_pct": 0.81,
+      "engagement_score": 0.69,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e35",
+      "name": "I. Indra",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Monorepo pipelines 2024-01"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Shared model infra 2024-10"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.58,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e36",
+      "name": "J. Jirasek",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "DAG refactor 2024-04"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Source clean-up 2024-07"
+        }
+      ],
+      "workload_pct": 0.72,
+      "engagement_score": 0.66,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e37",
+      "name": "K. Kadlec",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Vision models 2024-06"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Logging POC 2024-12"
+        }
+      ],
+      "workload_pct": 0.9,
+      "engagement_score": 0.54,
+      "attrition_prob": 0.3
+    },
+    {
+      "id": "e38",
+      "name": "L. Liska",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "COGS analysis 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "SQL tests 2024-09"
+        }
+      ],
+      "workload_pct": 0.57,
+      "engagement_score": 0.77,
+      "attrition_prob": 0.11
+    },
+    {
+      "id": "e39",
+      "name": "M. Malina",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Revenue mart 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "dbt checks 2024-04"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.71,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e40",
+      "name": "N. Nerad",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Container builds 2024-02"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Monitoring scripts 2024-09"
+        }
+      ],
+      "workload_pct": 0.84,
+      "engagement_score": 0.6,
+      "attrition_prob": 0.25
+    },
+
+    {
+      "id": "e41",
+      "name": "O. Otradovec",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "CDC streams 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Schema tests 2024-08"
+        }
+      ],
+      "workload_pct": 0.75,
+      "engagement_score": 0.65,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e42",
+      "name": "P. Polak",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Realtime infra 2024-05"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Serving lib 2024-01"
+        }
+      ],
+      "workload_pct": 0.96,
+      "engagement_score": 0.49,
+      "attrition_prob": 0.33
+    },
+    {
+      "id": "e43",
+      "name": "Q. Quitt",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Feature KPIs 2024-04"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Experiment script 2024-10"
+        }
+      ],
+      "workload_pct": 0.61,
+      "engagement_score": 0.79,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e44",
+      "name": "R. Rous",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Customer mart 2024-02"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "CI templates 2024-03"
+        }
+      ],
+      "workload_pct": 0.79,
+      "engagement_score": 0.7,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e45",
+      "name": "S. Stepan",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Runner fleet 2024-06"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model infra POC 2024-09"
+        }
+      ],
+      "workload_pct": 0.89,
+      "engagement_score": 0.57,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e46",
+      "name": "T. Tomasek",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Refactor ETL 2024-03"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Staging models 2024-05"
+        }
+      ],
+      "workload_pct": 0.73,
+      "engagement_score": 0.64,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e47",
+      "name": "U. Uher",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Embedding service 2024-08"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Monitoring POC 2024-12"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.55,
+      "attrition_prob": 0.29
+    },
+    {
+      "id": "e48",
+      "name": "V. Vavra",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Margin analysis 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "dbt CI intro 2024-11"
+        }
+      ],
+      "workload_pct": 0.54,
+      "engagement_score": 0.8,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e49",
+      "name": "W. Winkler",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Marketing mart 2024-07"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Tests & docs 2024-08"
+        }
+      ],
+      "workload_pct": 0.82,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e50",
+      "name": "X. Xenik",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Cluster builds 2024-02"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Automation scripts 2024-09"
+        }
+      ],
+      "workload_pct": 0.86,
+      "engagement_score": 0.59,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e51",
+      "name": "Y. Yelinek",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "ODS 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Schema CI 2024-05"
+        }
+      ],
+      "workload_pct": 0.76,
+      "engagement_score": 0.63,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e52",
+      "name": "Z. Zamecnik",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Shadow deployment 2024-06"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Trainer refactor 2024-01"
+        }
+      ],
+      "workload_pct": 0.97,
+      "engagement_score": 0.45,
+      "attrition_prob": 0.36
+    },
+    {
+      "id": "e53",
+      "name": "A. Adamek",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "User retention 2024-05"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "EDA notebooks 2024-09"
+        }
+      ],
+      "workload_pct": 0.6,
+      "engagement_score": 0.78,
+      "attrition_prob": 0.11
+    },
+    {
+      "id": "e54",
+      "name": "B. Bohac",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Sales mart 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Pipeline checks 2024-04"
+        }
+      ],
+      "workload_pct": 0.79,
+      "engagement_score": 0.7,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e55",
+      "name": "C. Cizkova",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Shared templates 2024-07"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Model infra pilot 2025-01"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.56,
+      "attrition_prob": 0.28
+    },
+
+    {
+      "id": "e56",
+      "name": "D. Dolezal",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "S3 loaders 2024-02"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Transformations 2024-04"
+        }
+      ],
+      "workload_pct": 0.71,
+      "engagement_score": 0.65,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e57",
+      "name": "E. Eisner",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Clustering service 2024-08"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Metric store 2024-11"
+        }
+      ],
+      "workload_pct": 0.93,
+      "engagement_score": 0.52,
+      "attrition_prob": 0.31
+    },
+    {
+      "id": "e58",
+      "name": "F. Flosman",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Cohort analysis 2024-06"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "Dash tests 2024-10"
+        }
+      ],
+      "workload_pct": 0.53,
+      "engagement_score": 0.82,
+      "attrition_prob": 0.08
+    },
+    {
+      "id": "e59",
+      "name": "G. Gross",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Product mart 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Linting rules 2024-06"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.73,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e60",
+      "name": "H. Hanzlik",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "GitOps rollout 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Ops toolbox 2024-09"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.6,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e61",
+      "name": "I. Ivana",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Logging schemas 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "DB migration CI 2024-05"
+        }
+      ],
+      "workload_pct": 0.77,
+      "engagement_score": 0.64,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e62",
+      "name": "J. Jindra",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Blue/green deploy 2024-07"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Training orchestration 2024-01"
+        }
+      ],
+      "workload_pct": 0.95,
+      "engagement_score": 0.46,
+      "attrition_prob": 0.35
+    },
+    {
+      "id": "e63",
+      "name": "K. Karas",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Feature flags analysis 2024-06"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "AB scripts 2024-10"
+        }
+      ],
+      "workload_pct": 0.62,
+      "engagement_score": 0.79,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e64",
+      "name": "L. Langer",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Engagement mart 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "dbt macros 2024-04"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e65",
+      "name": "M. Musil",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Central CI 2024-02"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Runner for ML 2024-11"
+        }
+      ],
+      "workload_pct": 0.86,
+      "engagement_score": 0.58,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e66",
+      "name": "N. Novakova",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "API ingestion 2024-04"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Transform views 2024-06"
+        }
+      ],
+      "workload_pct": 0.7,
+      "engagement_score": 0.67,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e67",
+      "name": "O. Ondrak",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Search ranking 2024-09"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model rollbacks 2024-10"
+        }
+      ],
+      "workload_pct": 0.9,
+      "engagement_score": 0.51,
+      "attrition_prob": 0.3
+    },
+    {
+      "id": "e68",
+      "name": "P. Pechar",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "LTV analysis 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "CI dashboards 2024-10"
+        }
+      ],
+      "workload_pct": 0.56,
+      "engagement_score": 0.8,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e69",
+      "name": "Q. Quittova",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Acquisition mart 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Testing framework 2024-05"
+        }
+      ],
+      "workload_pct": 0.81,
+      "engagement_score": 0.71,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e70",
+      "name": "R. Rosicky",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Multi-env deploy 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Infra bots 2024-08"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.59,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e71",
+      "name": "S. Svatek",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Telemetry store 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Data quality CI 2024-06"
+        }
+      ],
+      "workload_pct": 0.76,
+      "engagement_score": 0.64,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e72",
+      "name": "T. Toman",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Autoscaling 2024-07"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Trainer v2 2024-01"
+        }
+      ],
+      "workload_pct": 0.96,
+      "engagement_score": 0.47,
+      "attrition_prob": 0.35
+    },
+    {
+      "id": "e73",
+      "name": "U. Urbanova",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Engagement analysis 2024-06"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "AB helper 2024-10"
+        }
+      ],
+      "workload_pct": 0.61,
+      "engagement_score": 0.81,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e74",
+      "name": "V. Volek",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Retention mart 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Nightly checks 2024-04"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e75",
+      "name": "W. Waclav",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Template lib 2024-02"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "GPU runners 2024-11"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.58,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e76",
+      "name": "X. Xerxa",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Batch loaders 2024-04"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Refined staging 2024-06"
+        }
+      ],
+      "workload_pct": 0.71,
+      "engagement_score": 0.66,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e77",
+      "name": "Y. Yvona",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Explainability service 2024-09"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model metrics 2024-10"
+        }
+      ],
+      "workload_pct": 0.91,
+      "engagement_score": 0.52,
+      "attrition_prob": 0.31
+    },
+    {
+      "id": "e78",
+      "name": "Z. Zora",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Revenue bridge 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "Dashboard tests 2024-10"
+        }
+      ],
+      "workload_pct": 0.55,
+      "engagement_score": 0.8,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e79",
+      "name": "A. Arnost",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Subscription mart 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "CI dashboards 2024-05"
+        }
+      ],
+      "workload_pct": 0.82,
+      "engagement_score": 0.73,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e80",
+      "name": "B. Barbora",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Secrets pipeline 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Tooling cleanup 2024-08"
+        }
+      ],
+      "workload_pct": 0.86,
+      "engagement_score": 0.6,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e81",
+      "name": "C. Cyril",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Metrics store 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Data checks 2024-06"
+        }
+      ],
+      "workload_pct": 0.76,
+      "engagement_score": 0.65,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e82",
+      "name": "D. Dana",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Rollout strategy 2024-07"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Trainer modularization 2024-01"
+        }
+      ],
+      "workload_pct": 0.95,
+      "engagement_score": 0.48,
+      "attrition_prob": 0.34
+    },
+    {
+      "id": "e83",
+      "name": "E. Ester",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Feature usage 2024-06"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Experiment helpers 2024-10"
+        }
+      ],
+      "workload_pct": 0.6,
+      "engagement_score": 0.79,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e84",
+      "name": "F. Filip",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Traffic mart 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Testing suite 2024-04"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e85",
+      "name": "G. Gabriela",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Runner scaling 2024-02"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "GPU CI 2024-11"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.59,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e86",
+      "name": "H. Hedvika",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Scheduler jobs 2024-04"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Transform chains 2024-06"
+        }
+      ],
+      "workload_pct": 0.71,
+      "engagement_score": 0.67,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e87",
+      "name": "I. Igor",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Ranking v2 2024-09"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Metric rollout 2024-10"
+        }
+      ],
+      "workload_pct": 0.92,
+      "engagement_score": 0.52,
+      "attrition_prob": 0.32
+    },
+    {
+      "id": "e88",
+      "name": "J. Jana",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Revenue KPIs 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "Dashboard CI 2024-10"
+        }
+      ],
+      "workload_pct": 0.56,
+      "engagement_score": 0.81,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e89",
+      "name": "K. Klara",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Profitability mart 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Data tests 2024-05"
+        }
+      ],
+      "workload_pct": 0.81,
+      "engagement_score": 0.73,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e90",
+      "name": "L. Lukas",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Release tooling 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "SRE scripts 2024-08"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.6,
+      "attrition_prob": 0.27
+    },
+
+    {
+      "id": "e91",
+      "name": "M. Marek",
+      "role": "Data Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Log store 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Integrity CI 2024-06"
+        }
+      ],
+      "workload_pct": 0.76,
+      "engagement_score": 0.65,
+      "attrition_prob": 0.21
+    },
+    {
+      "id": "e92",
+      "name": "N. Nina",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.mlops",
+          "level": "Advanced",
+          "evidence": "Multi-region deploy 2024-07"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "Trainer scaling 2024-01"
+        }
+      ],
+      "workload_pct": 0.96,
+      "engagement_score": 0.48,
+      "attrition_prob": 0.35
+    },
+    {
+      "id": "e93",
+      "name": "O. Otilie",
+      "role": "Data Analyst",
+      "org": "Product",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Retention KPIs 2024-06"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Novice",
+          "evidence": "Test calculators 2024-10"
+        }
+      ],
+      "workload_pct": 0.62,
+      "engagement_score": 0.8,
+      "attrition_prob": 0.1
+    },
+    {
+      "id": "e94",
+      "name": "P. Petr",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Engagement mart v2 2024-03"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Regression tests 2024-04"
+        }
+      ],
+      "workload_pct": 0.8,
+      "engagement_score": 0.72,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e95",
+      "name": "Q. Quido",
+      "role": "Platform Engineer",
+      "org": "Platform",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Pipelines v3 2024-02"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Novice",
+          "evidence": "Model cache 2024-11"
+        }
+      ],
+      "workload_pct": 0.87,
+      "engagement_score": 0.59,
+      "attrition_prob": 0.26
+    },
+
+    {
+      "id": "e96",
+      "name": "R. Renata",
+      "role": "Data Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Parquet loaders 2024-04"
+        },
+        {
+          "skill_id": "skill.sql",
+          "level": "Practitioner",
+          "evidence": "Transform updates 2024-06"
+        }
+      ],
+      "workload_pct": 0.7,
+      "engagement_score": 0.68,
+      "attrition_prob": 0.2
+    },
+    {
+      "id": "e97",
+      "name": "S. Simon",
+      "role": "ML Engineer",
+      "org": "AI",
+      "skills": [
+        {
+          "skill_id": "skill.python",
+          "level": "Advanced",
+          "evidence": "CTR model 2024-09"
+        },
+        {
+          "skill_id": "skill.mlops",
+          "level": "Practitioner",
+          "evidence": "Model alerts 2024-10"
+        }
+      ],
+      "workload_pct": 0.91,
+      "engagement_score": 0.53,
+      "attrition_prob": 0.31
+    },
+    {
+      "id": "e98",
+      "name": "T. Tereza",
+      "role": "Data Analyst",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Churn KPIs 2024-05"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Novice",
+          "evidence": "CI for reports 2024-10"
+        }
+      ],
+      "workload_pct": 0.56,
+      "engagement_score": 0.81,
+      "attrition_prob": 0.09
+    },
+    {
+      "id": "e99",
+      "name": "U. Ute",
+      "role": "Analytics Engineer",
+      "org": "Analytics",
+      "skills": [
+        {
+          "skill_id": "skill.sql",
+          "level": "Advanced",
+          "evidence": "Churn mart 2024-04"
+        },
+        {
+          "skill_id": "skill.ci",
+          "level": "Practitioner",
+          "evidence": "Nightly validation 2024-05"
+        }
+      ],
+      "workload_pct": 0.82,
+      "engagement_score": 0.73,
+      "attrition_prob": 0.19
+    },
+    {
+      "id": "e100",
+      "name": "V. Viktor",
+      "role": "DevOps Engineer",
+      "org": "Ops",
+      "skills": [
+        {
+          "skill_id": "skill.ci",
+          "level": "Advanced",
+          "evidence": "Pipeline governance 2024-03"
+        },
+        {
+          "skill_id": "skill.python",
+          "level": "Practitioner",
+          "evidence": "Reliability tooling 2024-08"
+        }
+      ],
+      "workload_pct": 0.88,
+      "engagement_score": 0.61,
+      "attrition_prob": 0.27
+    }
+  ]
+}

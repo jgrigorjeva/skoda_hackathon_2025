@@ -1,0 +1,42 @@
+{
+  "levels": [
+    "Novice",
+    "Practitioner",
+    "Advanced",
+    "Expert"
+  ],
+  "skills": [
+    {
+      "id": "skill.mlops",
+      "name": "MLOps",
+      "aliases": [
+        "ml ops",
+        "platform ops"
+      ],
+      "prereqs": [
+        "skill.python",
+        "skill.ci"
+      ]
+    },
+    {
+      "id": "skill.python",
+      "name": "Python",
+      "prereqs": []
+    },
+    {
+      "id": "skill.ci",
+      "name": "CI/CD",
+      "prereqs": []
+    },
+    {
+      "id": "skill.sql",
+      "name": "SQL",
+      "prereqs": []
+    }
+  ],
+  "hours_per_step": {
+    "Novice\u2192Practitioner": 40,
+    "Practitioner\u2192Advanced": 80,
+    "Advanced\u2192Expert": 120
+  }
+}
