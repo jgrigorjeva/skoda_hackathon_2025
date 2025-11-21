@@ -1,7 +1,7 @@
 # Strategic Goals
 
 ## Goal: Release a car that doesn’t beep at you for everything
-- id: cap.release_silent_ev
+- id: cap.release_quiet_ev
 - target_date: 2027-12-31
 - headcount_target: 25
 - required_skills:
@@ -11,16 +11,16 @@
   - skill.software_development: Intermediate
 
 ## Goal: Add “Space-Ready™” stickers to boost investor confidence
-- id: cap.add_space_ready_stickers
+- id: cap.space_ready_marketing
 - target_date: 2028-06-30
 - headcount_target: 5
 - required_skills:
-  - skill.marketing: Intermediate
+  - skill.marketing: Advanced
+  - skill.branding: Intermediate
   - skill.graphic_design: Intermediate
-  - skill.brand_management: Basic
 
 ## Goal: Send a remote-controlled toy car to the stratosphere via weather balloon
-- id: cap.stratosphere_toy_car
+- id: cap.stratosphere_demo
 - target_date: 2038-12-31
 - headcount_target: 12
 - required_skills:
@@ -34,9 +34,9 @@
 - target_date: 2039-06-30
 - headcount_target: 8
 - required_skills:
-  - skill.event_management: Intermediate
+  - skill.event_management: Advanced
   - skill.public_relations: Intermediate
-  - skill.lighting_design: Basic
+  - skill.lighting_design: Intermediate
 
 ## Goal: Develop a rover that can drive on red sand and test it in a children’s sandbox
 - id: cap.red_sand_rover
@@ -53,9 +53,9 @@
 - target_date: 2052-06-30
 - headcount_target: 6
 - required_skills:
-  - skill.business_development: Intermediate
+  - skill.business_development: Advanced
   - skill.communication: Intermediate
-  - skill.negotiation: Basic
+  - skill.negotiation: Intermediate
 
 ## Goal: Build the first Aurelia Mars Base™
 - id: cap.build_mars_base
@@ -65,15 +65,15 @@
   - skill.aerospace_engineering: Advanced
   - skill.civil_engineering: Advanced
   - skill.solar_energy_systems: Intermediate
-  - skill.electrical_engineering: Advanced
   - skill.project_management: Advanced
+  - skill.supply_chain_management: Intermediate
 
 ## Goal: Begin exporting “Made on Mars” merch
 - id: cap.export_mars_merch
 - target_date: 2072-06-30
-- headcount_target: 18
+- headcount_target: 20
 - required_skills:
-  - skill.supply_chain_management: Intermediate
+  - skill.logistics: Advanced
   - skill.marketing: Advanced
-  - skill.logistics: Intermediate
   - skill.product_design: Intermediate
+  - skill.export_regulations: Intermediate
