@@ -1,0 +1,25 @@
+{% extends "planner/base.html" %}
+{% block content %}
+{% if error %}
+  <div class="alert alert-danger">{{ error }}</div>
+{% else %}
+  <h2 class="mb-2">Candidates</h2>
+  <p class="text-muted">Capability: <strong>{{ cap.name }}</strong> · Skill: <strong>{{ skill_name }}</strong> ({{ skill_id }})</p>
+
+  <div class="list-group">
+    {% for r in rows %}
+      <a class="list-group-item list-group-item-action" href="/roadmap/{{ cap.id }}/{{ skill_id }}/{{ r.employee_id }}/">
+        <div class="d-flex w-100 justify-content-between">
+          <h5 class="mb-1">{{ r.name }} <small class="text-muted">({{ r.role }})</small></h5>
+          <small>Readiness: <strong>{{ r.readiness }}</strong> · Risk: <strong>{{ r.risk }}</strong> · TTR: {{ r.ttr_months }} mo</small>
+        </div>
+        <p class="mb-1 small text-muted">
+          {{ r.reasons|join:" · " }}
+        </p>
+      </a>
+    {% empty %}
+      <div class="alert alert-warning">No employees found.</div>
+    {% endfor %}
+  </div>
+{% endif %}
+{% endblock %}

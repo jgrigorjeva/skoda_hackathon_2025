@@ -1,0 +1,44 @@
+{% extends "planner/base.html" %}
+{% block content %}
+<h1 class="mb-3">Strategic Gaps</h1>
+<p class="text-muted">Loaded from <code>data/strategy.md</code> and JSON files. Click a block to see best-fit candidates.</p>
+
+<!-- Upload form to load a .txt document and process it via AI before replacing strategy.md -->
+{% if messages %}
+  <div>
+    {% for message in messages %}
+      <div class="alert {% if message.tags %}alert-{{ message.tags }}{% endif %}" role="alert">{{ message }}</div>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<form action="{% url 'upload_strategy' %}" method="post" enctype="multipart/form-data" class="mb-3">
+  {% csrf_token %}
+  <div class="input-group">
+    <input class="form-control" type="file" name="file" accept=".txt,text/plain" aria-label="Upload strategy text file">
+    <button class="btn btn-primary" type="submit">Upload and Process</button>
+  </div>
+</form>
+
+<div class="row">
+  {% for blk in gap_blocks %}
+  <div class="col-12 col-md-6 col-lg-4 mb-3">
+    <a class="text-decoration-none" href="/candidates/{{ blk.cap_id }}/{{ blk.skill_id }}/">
+      <div class="card h-100 shadow-sm gap-card">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-start">
+            <h5 class="card-title">{{ blk.skill_name }} <small class="text-muted">({{ blk.skill_id }})</small></h5>
+            <span class="badge bg-secondary">{{ blk.target_level }}</span>
+          </div>
+          <p class="mb-1"><strong>Capability:</strong> {{ blk.cap_name }}</p>
+          <p class="mb-1"><strong>Deadline:</strong> {{ blk.deadline }}</p>
+          <p class="mb-0"><strong>Coverage:</strong> {{ blk.current_coverage }} / {{ blk.headcount_target }}</p>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% empty %}
+    <p>No gaps found. Check your strategy.md format.</p>
+  {% endfor %}
+</div>
+{% endblock %}

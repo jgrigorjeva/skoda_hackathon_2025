@@ -1,0 +1,2394 @@
+{
+  "goals": [
+    {
+      "goal_id": "cap.ml_platform",
+      "target_date": "2026-12-31",
+      "headcount_target": 3,
+      "required_skills": [
+        {
+          "skill_code": "skill.mlops",
+          "required_level": "Advanced",
+          "description_if_known": null
+        },
+        {
+          "skill_code": "skill.python",
+          "required_level": "Advanced",
+          "description_if_known": null
+        }
+      ],
+      "per_employee_scores": [
+        {
+          "employee_id": "DZC0RRI",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0VAB",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill MLOps with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDK15",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJJOZ",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPS2G",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "GDCEFAI",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "AFY75I7",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMMBF",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMND1",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "WJX3TER",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VD61ROF",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCIJ06",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJR15",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMN24",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCTP07",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "S0TZXFZ",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMM41",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJS34",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCLZ28",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMPAL",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPS21",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0KET",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCEK01",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCHN02",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJJ69",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMD56",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMK39",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMMO6",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDJ33",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMPCY",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCZH21",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPKBQ",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCSD03",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VR075EJ",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0HVJ",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJSWO",
+          "match_score": 0.35,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "W3UMM3Z",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VM0C0ZT",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCLH19",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMHZW",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DUSCVK4",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0HPN",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCKJ07",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCRP17",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "EG61I6C",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCRBUY",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "F7YZT96",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC1PET",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCTHUV",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level None"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDP06",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Machine Learning with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill Python with level None"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "goal_id": "cap.data_quality",
+      "target_date": "2026-06-30",
+      "headcount_target": 2,
+      "required_skills": [
+        {
+          "skill_code": "skill.ci",
+          "required_level": "Practitioner",
+          "description_if_known": null
+        },
+        {
+          "skill_code": "skill.sql",
+          "required_level": "Advanced",
+          "description_if_known": null
+        }
+      ],
+      "per_employee_scores": [
+        {
+          "employee_id": "DZC0RRI",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0VAB",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDK15",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJJOZ",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPS2G",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "GDCEFAI",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "AFY75I7",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMMBF",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMND1",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "WJX3TER",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VD61ROF",
+          "match_score": 0.7857142857142858,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCIJ06",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJR15",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMN24",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCTP07",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "S0TZXFZ",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMM41",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJS34",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCLZ28",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMPAL",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPS21",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0KET",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCEK01",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCHN02",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJJ69",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMD56",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMK39",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMMO6",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDJ33",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMPCY",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCZH21",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCPKBQ",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCSD03",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VR075EJ",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0HVJ",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCJSWO",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "W3UMM3Z",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Advanced"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "VM0C0ZT",
+          "match_score": 0.6357142857142857,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill CI/CD with level Beginner"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCLH19",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCMHZW",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Beginner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DUSCVK4",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC0HPN",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCKJ07",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCRP17",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "EG61I6C",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCRBUY",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "F7YZT96",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level Practitioner"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZC1PET",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCTHUV",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Practitioner"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        },
+        {
+          "employee_id": "DZCDP06",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "evidence": [
+                "from pre-scoring: internal skill Version Control with level Advanced"
+              ]
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "evidence": [
+                "from pre-scoring: internal skill SQL with level None"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "top_employees_overall": [
+    {
+      "employee_id": "DZC0RRI",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "DZC0RRI is a perfect match for both the ML platform and data quality goals, scoring 1.0 on each. They demonstrate Advanced-level MLOps and Python, as well as Advanced CI/Version Control and SQL, making them highly versatile across the entire strategy."
+    },
+    {
+      "employee_id": "DZC0VAB",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "DZC0VAB also achieves perfect scores on both strategic goals, with Advanced proficiency in MLOps, Python, CI/Version Control, and SQL. This balance of platform engineering and data quality skills makes them an excellent cross-cutting contributor."
+    },
+    {
+      "employee_id": "DZCDK15",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "DZCDK15 fully meets all required skills for both goals at Advanced level, mirroring the strongest profiles. Their perfect match on MLOps, Python, CI/Version Control, and SQL indicates they can operate effectively across platform and data quality initiatives."
+    },
+    {
+      "employee_id": "DZCJJOZ",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "DZCJJOZ is another dual-goal expert, with perfect matches on both ML platform and data quality. Their Advanced levels in all four critical skills suggest they can serve as a technical leader spanning machine learning infrastructure and data quality practices."
+    },
+    {
+      "employee_id": "DZCPS2G",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "DZCPS2G matches all required competencies at Advanced level for both strategic goals. This makes them a strong candidate to work on core ML platform components while also contributing to robust data quality pipelines and checks."
+    },
+    {
+      "employee_id": "GDCEFAI",
+      "overall_match_score": 1.0,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        }
+      ],
+      "summary_reasoning": "GDCEFAI also scores 1.0 on both goals, with Advanced Machine Learning/MLOps, Python, CI/Version Control, and SQL. Their well-rounded profile supports end-to-end workflows from model deployment to data quality monitoring."
+    },
+    {
+      "employee_id": "AFY75I7",
+      "overall_match_score": 0.925,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85
+        }
+      ],
+      "summary_reasoning": "AFY75I7 is a perfect fit for Data Quality Excellence and a strong, though slightly less advanced, fit for the ML platform. They bring Advanced Python, CI, and SQL plus Practitioner-level MLOps, making them ideal for data quality with capacity to grow on platform work."
+    },
+    {
+      "employee_id": "DZCMMBF",
+      "overall_match_score": 0.925,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85
+        }
+      ],
+      "summary_reasoning": "DZCMMBF excels in data quality with full Advanced CI and SQL and contributes strongly to the ML platform with Advanced MLOps and Practitioner Python. This mix is valuable for bridging platform engineering and high-quality data workflows."
+    },
+    {
+      "employee_id": "DZCMND1",
+      "overall_match_score": 0.925,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85
+        }
+      ],
+      "summary_reasoning": "DZCMND1 is another strong hybrid, with perfect data quality alignment and near-complete coverage for ML platform. Their Advanced MLOps and high-level Python, CI, and SQL skills make them flexible across both initiatives."
+    },
+    {
+      "employee_id": "WJX3TER",
+      "overall_match_score": 0.925,
+      "best_fit_goals": [
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0
+        },
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85
+        }
+      ],
+      "summary_reasoning": "WJX3TER is a perfect match for Data Quality Excellence and a strong contributor to the ML platform. With Advanced CI, SQL, and MLOps plus solid Python skills, they can support both reliable data pipelines and operational ML systems."
+    }
+  ]
+}

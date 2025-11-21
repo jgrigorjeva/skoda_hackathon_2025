@@ -1,0 +1,6 @@
+Django>=5,<6
+# Optional extras for later:
+# markdown
+# openai>=1.0.0
+requests>=2.0.0
+python-dotenv>=1.0.0

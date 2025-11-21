@@ -1,0 +1,2339 @@
+{
+  "goals": [
+    {
+      "goal_name": "Company-wide ML Platform",
+      "id": "cap.ml_platform",
+      "target_date": "2026-12-31",
+      "headcount_target": 3,
+      "required_skills": [
+        {
+          "skill_code": "skill.mlops",
+          "required_level": "Advanced"
+        },
+        {
+          "skill_code": "skill.python",
+          "required_level": "Advanced"
+        }
+      ]
+    },
+    {
+      "goal_name": "Data Quality Excellence",
+      "id": "cap.data_quality",
+      "target_date": "2026-06-30",
+      "headcount_target": 2,
+      "required_skills": [
+        {
+          "skill_code": "skill.ci",
+          "required_level": "Practitioner"
+        },
+        {
+          "skill_code": "skill.sql",
+          "required_level": "Advanced"
+        }
+      ]
+    }
+  ],
+  "candidates": [
+    {
+      "employee_id": "DZC0RRI",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZC0VAB",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "MLOps",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCDK15",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCJJOZ",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCPS2G",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "GDCEFAI",
+      "overall_score": 2.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "AFY75I7",
+      "overall_score": 1.85,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMMBF",
+      "overall_score": 1.85,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMND1",
+      "overall_score": 1.85,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "WJX3TER",
+      "overall_score": 1.85,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "VD61ROF",
+      "overall_score": 1.7857142857142858,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7857142857142858,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Version Control",
+              "score": 0.5714285714285715
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCIJ06",
+      "overall_score": 1.7,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCJR15",
+      "overall_score": 1.7,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMN24",
+      "overall_score": 1.7,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCTP07",
+      "overall_score": 1.7,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "S0TZXFZ",
+      "overall_score": 1.7,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMM41",
+      "overall_score": 1.55,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCJS34",
+      "overall_score": 1.5499999999999998,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCLZ28",
+      "overall_score": 1.5499999999999998,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMPAL",
+      "overall_score": 1.5499999999999998,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCPS21",
+      "overall_score": 1.5499999999999998,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZC0KET",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCEK01",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCHN02",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCJJ69",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMD56",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMK39",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMMO6",
+      "overall_score": 1.4,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCDJ33",
+      "overall_score": 1.25,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMPCY",
+      "overall_score": 1.25,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Python",
+              "score": 0.7
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCZH21",
+      "overall_score": 1.25,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCPKBQ",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCSD03",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "VR075EJ",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZC0HVJ",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCJSWO",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.35,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "W3UMM3Z",
+      "overall_score": 1.2,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 1.0,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "SQL",
+              "score": 1.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "VM0C0ZT",
+      "overall_score": 1.1357142857142857,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.6357142857142857,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "CI/CD",
+              "score": 0.5714285714285715
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCLH19",
+      "overall_score": 1.1,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCMHZW",
+      "overall_score": 1.1,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.4,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.7,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "SQL",
+              "score": 0.4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DUSCVK4",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZC0HPN",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCKJ07",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCRP17",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "EG61I6C",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.55,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.7
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Python",
+              "score": 0.4
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCRBUY",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "F7YZT96",
+      "overall_score": 1.05,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.2,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Beginner",
+              "internal_skill_name": "Machine Learning",
+              "score": 0.4
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.85,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "SQL",
+              "score": 0.7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZC1PET",
+      "overall_score": 1.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCTHUV",
+      "overall_score": 1.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Python",
+              "score": 1.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Practitioner",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "employee_id": "DZCDP06",
+      "overall_score": 1.0,
+      "per_goal_scores": [
+        {
+          "goal_id": "cap.ml_platform",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.mlops",
+              "required_level": "Advanced",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Machine Learning",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.python",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        },
+        {
+          "goal_id": "cap.data_quality",
+          "match_score": 0.5,
+          "skill_matches": [
+            {
+              "skill_code": "skill.ci",
+              "required_level": "Practitioner",
+              "inferred_level": "Advanced",
+              "internal_skill_name": "Version Control",
+              "score": 1.0
+            },
+            {
+              "skill_code": "skill.sql",
+              "required_level": "Advanced",
+              "inferred_level": "None",
+              "internal_skill_name": null,
+              "score": 0.0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "total_employees": 6648
+}

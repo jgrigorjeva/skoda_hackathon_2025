@@ -1,0 +1,28 @@
+{
+  "mappings": [
+    {
+      "strategy_skill_code": "skill.mlops",
+      "internal_skill_names": [
+        "MLOps"
+      ]
+    },
+    {
+      "strategy_skill_code": "skill.python",
+      "internal_skill_names": [
+        "Python"
+      ]
+    },
+    {
+      "strategy_skill_code": "skill.ci",
+      "internal_skill_names": [
+        "CI/CD"
+      ]
+    },
+    {
+      "strategy_skill_code": "skill.sql",
+      "internal_skill_names": [
+        "SQL"
+      ]
+    }
+  ]
+}

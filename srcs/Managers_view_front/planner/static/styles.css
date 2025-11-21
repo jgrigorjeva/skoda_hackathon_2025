@@ -1,0 +1,2 @@
+.gap-card { transition: transform 0.05s ease-in-out; border-left: 6px solid #6c757d; }
+.gap-card:hover { transform: scale(1.01); }

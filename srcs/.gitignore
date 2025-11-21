@@ -1,0 +1,36 @@
+skill_data_model/data/*
+skill_data_model/__pycache__/*
+skill_data_model/output/*
+skill_data_model/*.json
+
+# Environment files (don't commit secrets)
+.env
+.env.local
+.env.*.local# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class# Virtual environments
+.venv/
+venv/
+ENV/
+env/# Django database and user-uploaded media
+db.sqlite3
+media/
+staticfiles/# Test and coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/# Packaging/build
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/# Type checkers / caches
+.mypy_cache/
+.pyright/# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store# Logs
+*.log# Node
+node_modules/skill_data_models/
