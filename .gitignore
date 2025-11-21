@@ -1,2 +1,4 @@
 *.env
 .DS_Store
+skill_data_model/data/
+skill_data_model/output/
