@@ -1,0 +1,51 @@
+
+# Environment files (don't commit secrets)
+.env
+.env.local
+.env.*.local
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Django database and user-uploaded media
+db.sqlite3
+media/
+staticfiles/
+
+# Test and coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Packaging/build
+dist/
+build/
+*.egg-info/
+pip-wheel-metadata/
+
+# Type checkers / caches
+.mypy_cache/
+.pyright/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
