@@ -1,2 +1,7 @@
 *.env
 .DS_Store
+/skill_data_model/data/*
+!skill_data_model/data/.gitkeep
+/skill_data_model/output/*
+!skill_data_model/output/.gitkeep
+/skill_data_model/*.json
